@@ -59,10 +59,20 @@ Notebook	Jupyter Lab
 📜 License
 MIT License - Data sourced from Our World in Data (CC BY 4.0).
 
-💡 Pro Tip: Add a requirements.txt file with:
+💡Requirements.txt for dependencies:
 
+# Core Data Analysis
 pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization
 matplotlib>=3.4.0
 seaborn>=0.11.0
 plotly>=5.3.0
+
+# Jupyter Notebook
 jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional (for choropleth maps)
+geopandas>=0.10.0  # If using advanced mapping
