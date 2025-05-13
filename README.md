@@ -50,7 +50,7 @@ cases_over_time.png: Line graph comparing case trajectories
 
 vaccine_map.png: Choropleth of vaccination rates by country
 
-🛠️ Tools Used
+#🛠️ Tools Used
 Purpose	Tools/Libraries
 Data Processing	pandas, NumPy
 Visualization	matplotlib, seaborn, Plotly
