@@ -1,6 +1,7 @@
 COVID-19 Global Data Tracker
 *A Python-based data analysis project tracking global COVID-19 trends (cases, deaths, vaccinations)*
-![Uploading image.png…]()
+[![image](https://github.com/user-attachments/assets/913b90ea-5a5d-45a9-a45c-02981825bf46)](https://www.gardenroute.gov.za/wp-content/uploads/2020/11/CoronaVirus-scaled.jpeg)
+
 
 
 
