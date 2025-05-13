@@ -1,7 +1,7 @@
 COVID-19 Global Data Tracker
 *A Python-based data analysis project tracking global COVID-19 trends (cases, deaths, vaccinations)*
 
-[Example Visualization](https://th.bing.com/th/id/OIP.gktOkF_Yn8JjYwnBYTEPbwHaFq?cb=iwc2&rs=1&pid=ImgDetMain)
+(https://th.bing.com/th/id/OIP.gktOkF_Yn8JjYwnBYTEPbwHaFq?cb=iwc2&rs=1&pid=ImgDetMain)
 
 📌 Project Description
 This project analyzes global COVID-19 data from Our World in Data to:
