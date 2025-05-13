@@ -24,7 +24,7 @@ Key Findings
 1. Vaccination Rollout Disparities
 US/UK achieved >50% vaccination by mid-2021, while Kenya reached ~10% by 2022.
 
-📉Low-income countries faced 6-month delays in vaccine access.
+Low-income countries faced 6-month delays in vaccine access.
 
 2. Case Waves by Country
 🇮🇳 India’s April 2021 surge (Delta variant) accounted for 50% of global cases at peak.
