@@ -1,4 +1,4 @@
-#COVID-19 Global Data Tracker
+COVID-19 Global Data Tracker
 *A Python-based data analysis project tracking global COVID-19 trends (cases, deaths, vaccinations)*
 [![image](https://github.com/user-attachments/assets/913b90ea-5a5d-45a9-a45c-02981825bf46)](https://www.gardenroute.gov.za/wp-content/uploads/2020/11/CoronaVirus-scaled.jpeg)
 
@@ -50,7 +50,7 @@ cases_over_time.png: Line graph comparing case trajectories
 
 vaccine_map.png: Choropleth of vaccination rates by country
 
-#🛠️ Tools Used
+🛠️ Tools Used
 Purpose	Tools/Libraries
 Data Processing	pandas, NumPy
 Visualization	matplotlib, seaborn, Plotly
