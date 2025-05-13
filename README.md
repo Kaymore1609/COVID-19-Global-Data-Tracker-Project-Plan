@@ -54,3 +54,11 @@ Data Processing	pandas, NumPy
 Visualization	matplotlib, seaborn, Plotly
 Geographic Maps	Plotly Express
 Notebook	Jupyter Lab
+
+Pro Tip: Add a requirements.txt file with:
+
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.3.0
+jupyter>=1.0.0
